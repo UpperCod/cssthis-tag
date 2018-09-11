@@ -1,0 +1,21 @@
+{
+    "name": "cssthis-tag",
+    "version": "0.0.0",
+    "description": "cssthis-tag is a simple way to control the CSS of its components",
+    "main": "dist/cssthis-tag.js",
+    "umd:main": "dist/cssthis-tag.umd.js",
+    "module": "dist/cssthis-tag.m.js",
+    "source": "src/index.js",
+    "scripts": {
+      "build": "microbundle"
+    },
+    "author": "Matias Trujillo Olivares",
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/UpperCod/cssthis-tag.git"
+    },
+    "devDependencies": {
+      "microbundle": "^0.6.0"
+    }
+  }
