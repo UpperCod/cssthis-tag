@@ -1,6 +1,6 @@
 {
     "name": "cssthis-tag",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "cssthis-tag is a simple way to control the CSS of its components",
     "main": "dist/cssthis-tag.js",
     "umd:main": "dist/cssthis-tag.umd.js",
